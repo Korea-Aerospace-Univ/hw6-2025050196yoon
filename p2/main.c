@@ -2,8 +2,8 @@
 
 int main(void) {
     int n; 
-    int arr1[n]={}; 
-    int arr2[n]={};
+    int arr1[20]={}; 
+    int arr2[20]={};
     int *p;
     int *q;
     
