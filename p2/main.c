@@ -20,8 +20,7 @@ int main(void) {
     p = arr1
     q = arr2 + N - 1 ; 
     
-    while (p < arr1 + N)
-    {
+    while (p < arr1 + N) {
         printf(" %d", *p + *q);
         p++;
         q--;
